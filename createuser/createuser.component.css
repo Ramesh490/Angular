@@ -1,0 +1,26 @@
+.form-things{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(226, 132, 247, 0.356);
+}
+
+
+.btn{
+    margin: 20px auto;
+    background-color: rgba(231, 68, 231, 0.749);
+    color: white;
+    width: 100%;
+    
+}
+
+
+
+h4{
+    text-align: center;
+    margin: 20px;
+    color: rgba(42, 9, 41, 0.803);
+}
+
+.form-group{
+    margin-top: 20px;
+}

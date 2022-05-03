@@ -1,0 +1,29 @@
+#nav{
+    background-color: rgb(195, 88, 186);
+    border-radius: 10px;
+
+}
+.table{
+    background-color: rgba(190, 44, 210, 0.303);
+    border-radius: 10px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.link-1{
+    margin-left: 20px;
+}
+
+.link-2{
+    margin-left: 900px;
+}
+
+a:hover{
+    border-bottom: 2px solid rgb(210, 204, 204);
+    background-color: rgb(234, 16, 223);
+    border-radius: 5px;
+}
